@@ -20,7 +20,7 @@ I’m currently following the roadmap provided by NeetCode to learn basic data s
 ## Binary Search
 
 ## Greedy
-122. [Best Time to Buy and Sell Stock II](/binary_search/Best_Time_to_Buy_and_Sell Stock_II.md)
+122. [Best Time to Buy and Sell Stock II](/binary_search/Best_Time_to_Buy_and_Sell_Stock_II.md)
 
 ## Dynamic Programming
 122. [Best Time to Buy and Sell Stock II](/dp/Best_Time_to_Buy_and_Sell_Stock_II.md)
