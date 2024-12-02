@@ -13,8 +13,8 @@ I’m currently following the roadmap provided by NeetCode to learn basic data s
 15. [3Sum](/hash/3Sum.md)
 
 ## Two Pointer
-167. [Two Sum II - Input Array Is Sorted](/two_pinter/Two_Sum_II.md)
-11. [Container With Most Water](/two_pinter/Container_With_Most_Water.md)
+167. [Two Sum II - Input Array Is Sorted](/two_pointer/Two_Sum_II.md)
+11. [Container With Most Water](/two_pointer/Container_With_Most_Water.md)
 15. [3Sum](/two_pinter/3Sum.md)
 
 ## Binary Search
