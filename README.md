@@ -12,6 +12,11 @@ I’m currently following the roadmap provided by NeetCode to learn basic data s
 128. [Longest Consecutive Sequence](/hash/Longest_Consecutive_Sequence.md)
 15. [3Sum](/hash/3Sum.md)
 
+## Stack
+496. [Next Greater Element I](/stack/Next_Greater_Element_I.md)
+503. [Next Greater Element II](/stack/Next_Greater_Element_II.md)
+739. [Daily Temperatures](/stack/Daily_Temperatures.md)
+
 ## Two Pointer
 167. [Two Sum II - Input Array Is Sorted](/two_pointer/Two_Sum_II.md)
 11. [Container With Most Water](/two_pointer/Container_With_Most_Water.md)
