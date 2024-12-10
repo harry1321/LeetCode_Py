@@ -17,6 +17,7 @@ I’m currently following the roadmap provided by NeetCode to learn basic data s
 503. [Next Greater Element II](/stack/Next_Greater_Element_II.md)
 739. [Daily Temperatures](/stack/Daily_Temperatures.md)
 150. [Evaluate Reverse Polish Notation](/stack/Evaluate_Reverse_Polish_Notation.md)
+155. [Min Stack](/stack/Min_Stack.md)
 
 ## Two Pointer
 167. [Two Sum II - Input Array Is Sorted](/two_pointer/Two_Sum_II.md)
