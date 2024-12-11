@@ -25,6 +25,7 @@ I’m currently following the roadmap provided by NeetCode to learn basic data s
 15. [3Sum](/two_pinter/3Sum.md)
 
 ## Binary Search
+74.[Search a 2D Matrix](/binary_search/Search_a_2D_Matrix.md)
 
 ## Greedy
 122. [Best Time to Buy and Sell Stock II](/binary_search/Best_Time_to_Buy_and_Sell_Stock_II.md)
