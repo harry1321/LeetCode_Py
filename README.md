@@ -42,6 +42,8 @@ I’m currently following the roadmap provided by NeetCode to learn basic data s
 
 875.[Koko Eating Bananas](/binary_search/Koko_Eating_Bananas.md)
 
+33.[Search in Rotated Sorted Array](/binary_search/Search_in_Rotated_Sorted_Array.md)
+
 981.[Time Based Key-Value Store](/binary_search/Time_Based_KeyValue_Store.md)
 
 ## Greedy
