@@ -37,6 +37,8 @@ I’m currently following the roadmap provided by NeetCode to learn basic data s
 
 15.[3Sum](/two_pinter/3Sum.md)
 
+121.[Best Time to Buy and Sell Stock](/two_pointer/Best_Time_to_Buy_and_Sell_Stock.md)
+
 ## Binary Search
 74.[Search a 2D Matrix](/binary_search/Search_a_2D_Matrix.md)
 
