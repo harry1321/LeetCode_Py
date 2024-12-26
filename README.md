@@ -41,6 +41,8 @@ I’m currently following the roadmap provided by NeetCode to learn basic data s
 
 3.[Longest Substring Without Repeating Characters](/two_pointer/Longest_Substring_Without_Repeating_Characters.md)
 
+424.[Longest Repeating Character Replacement](/two_pointer/Longest_Repeating_Character_Replacement.md)
+
 ## Binary Search
 74.[Search a 2D Matrix](/binary_search/Search_a_2D_Matrix.md)
 
