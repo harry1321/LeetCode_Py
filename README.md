@@ -56,6 +56,9 @@ I’m currently following the roadmap provided by NeetCode to learn basic data s
 
 981.[Time Based Key-Value Store](/binary_search/Time_Based_KeyValue_Store.md)
 
+## Linked List
+[Copy List with Random Pointer](/LinkedList/138. Copy List with Random Pointer/README.md)
+
 ## Greedy
 122.[Best Time to Buy and Sell Stock II](/binary_search/Best_Time_to_Buy_and_Sell_Stock_II.md)
 
